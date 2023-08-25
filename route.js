@@ -7,10 +7,10 @@ const route = (event) => {
 
 const routes = {
   404: "/pages/404.html",
-  "/": "/pages/index.html",
-  "/techtrain": "/pages/techtrain.html",
-  "/history": "/pages/history.html",
-  "/gallery": "/pages/gallery.html",
+  "/WW2-Combatives/": "/pages/index.html",
+  "/WW2-Combatives/techtrain": "/pages/techtrain.html",
+  "/WW2-Combatives/history": "/pages/history.html",
+  "/WW2-Combatives/gallery": "/pages/gallery.html",
 };
 
 const handleLocation = async () => {
